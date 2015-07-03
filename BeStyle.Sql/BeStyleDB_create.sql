@@ -1,0 +1,31 @@
+BEGIN	
+	CREATE DATABASE BeStyleDB;
+END;
+
+GO
+	USE BeStyleDB;
+GO
+
+BEGIN
+	CREATE TABLE tblUser
+	(	
+		Id INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+		FirstName NVARCHAR(50) NOT NULL,
+		LastName NVARCHAR(50) NOT NULL,
+		Email NVARCHAR(50) NOT NULL UNIQUE,
+		Phone NVARCHAR(50),
+		Login NVARCHAR(50) NOT NULL UNIQUE,
+		Password NVARCHAR(50) NOT NULL,			
+	);
+END;
+
+BEGIN
+	CREATE TABLE tblUserRole
+	(
+		Id INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+		UserId INT NOT NULL,
+		Role NVARCHAR(50) NOT NULL,
+		CONSTRAINT CK_Role CHECK (Role='Master' OR Role='Moderator' OR Role='Editor' OR Role='User'),
+		CONSTRAINT FK_tblUserRole_tblUser FOREIGN KEY (UserId) REFERENCES tblUser(Id)		
+	);
+END;

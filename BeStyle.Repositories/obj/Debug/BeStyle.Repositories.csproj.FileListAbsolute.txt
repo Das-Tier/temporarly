@@ -1,0 +1,11 @@
+G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.Repositories\bin\Debug\BeStyle.Repositories.dll
+G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.Repositories\bin\Debug\BeStyle.Repositories.pdb
+G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.Repositories\obj\Debug\BeStyle.Repositories.dll
+G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.Repositories\obj\Debug\BeStyle.Repositories.pdb
+C:\Users\Vitaly\Downloads\BeStyle.Admin-master\BeStyle.Admin-master\BeStyle\BeStyle.Repositories\obj\Debug\BeStyle.Repositories.csprojResolveAssemblyReference.cache
+C:\Users\Vitaly\Downloads\BeStyle.Admin-master\BeStyle.Admin-master\BeStyle\BeStyle.Repositories\obj\Debug\BeStyle.Repositories.dll
+C:\Users\Vitaly\Downloads\BeStyle.Admin-master\BeStyle.Admin-master\BeStyle\BeStyle.Repositories\obj\Debug\BeStyle.Repositories.pdb
+C:\Users\Vitaly\Downloads\BeStyle.Admin-master\BeStyle.Admin-master\BeStyle\BeStyle.Repositories\bin\Debug\BeStyle.Repositories.dll
+C:\Users\Vitaly\Downloads\BeStyle.Admin-master\BeStyle.Admin-master\BeStyle\BeStyle.Repositories\bin\Debug\BeStyle.Repositories.pdb
+C:\Users\Vitaly\Downloads\BeStyle.Admin-master\BeStyle.Admin-master\BeStyle\BeStyle.Repositories\bin\Debug\BeStyle.Models.dll
+C:\Users\Vitaly\Downloads\BeStyle.Admin-master\BeStyle.Admin-master\BeStyle\BeStyle.Repositories\bin\Debug\BeStyle.Models.pdb
